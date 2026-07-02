@@ -3,8 +3,9 @@
 In this repository, you can find all the Stata code and R code to facilitate the replication. The master R file “Run_All.R” will run all the cleaning and estimation. All do-file and R scripts include a comment at the top that describes what they are doing.
 
 **Important Note:** In our paper, we use the restricted NVSS mortality data. If you do not have access to the restricted version, please download and save the public-use version. Please follow these steps:
-•	Download Spencer (2023) data and save it into Data/Raw/ as Spencer_v2.txt: https://wonder.cdc.gov/controller/saved/D176/D373F989
-•	Download Joshi et al. (2023) data and save it into Data/Raw/ as Jama_v2.txt: https://wonder.cdc.gov/controller/saved/D176/D373F990
+  
+  a. Download Spencer (2023) data and save it into Data/Raw/ as Spencer_v2.txt: https://wonder.cdc.gov/controller/saved/D176/D373F989
+  b. Download Joshi et al. (2023) data and save it into Data/Raw/ as Jama_v2.txt: https://wonder.cdc.gov/controller/saved/D176/D373F990
 
 This repository has a few subdirectories:
 
