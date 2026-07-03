@@ -2,17 +2,8 @@
 library(pacman)
 p_load(tidyverse, tidycensus, magrittr, data.table, usmap, lubridate)
 
-
 #### Get Pop Data
 acs = readRDS(file="Data/OtherData/ACS.rds")
-pop = fread("SpencerCode/project/build/input/pop/pop.txt", fill=TRUE)
-pop %<>% 
-  mutate(state_fips=`Residence State Code`,
-         year = Year,
-         pop_spencer = Population) %>%
-  filter(!is.na(state_fips)) %>%
-  select(state_fips, year, pop_spencer)
-
 
 ### Create Balanced Panel
 data = expand.grid(state_fips=c(as.numeric(fips(state.name)),11),
@@ -65,8 +56,7 @@ data %<>%
 
 ### Merge Pop
 data %<>% 
-  left_join(acs, by=c("state_fips", "year")) %>%
-  left_join(pop, by=c("state_fips", "year")) 
+  left_join(acs, by=c("state_fips", "year")) 
 
 
 ### Save
