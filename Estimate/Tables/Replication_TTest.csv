@@ -1,0 +1,6 @@
+V1,V2,V3,V4,V5
+& \multicolumn{2}{c}{Oregon} & \multicolumn{2}{c}{Washington} \\ \cmidrule(lr){2-3} \cmidrule(lr){4-5}  \\ & \multicolumn{4}{c}{Panel I: Prediction Intervals}  \\ \cmidrule(l){2-5} ATT,0.406**,0.264,0.107*,0.098
+,"[0.13,0.68]","[-0.2,1.01]","[-0.01,0.23]","[-0.08,0.27]"
+ \\ & \multicolumn{4}{c}{Panel II: Chernozhukov et al. (2018) T-Test Procedure}  \\ \cmidrule(l){2-5} ATT,0.429*,0.331,0.175,0.192
+,"[0.03,0.83]","[-0.01,0.67]","[-0.01,0.36]","[-0.1,0.48]"
+Specification,Spencer,Joshi,Spencer,Joshi
