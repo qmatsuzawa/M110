@@ -1,0 +1,87 @@
+"Notes"	"Occurrence State"	"Occurrence State Code"	"Year"	"Year Code"	Deaths	Population	Crude Rate
+	"Alabama"	"01"	"2022 (provisional)"	"2022"	794	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2022 (provisional)"	"2022"	146	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2022 (provisional)"	"2022"	1599	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2022 (provisional)"	"2022"	304	Not Applicable	Not Applicable
+	"California"	"06"	"2022 (provisional)"	"2022"	6196	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2022 (provisional)"	"2022"	1055	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2022 (provisional)"	"2022"	782	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2022 (provisional)"	"2022"	268	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2022 (provisional)"	"2022"	274	Not Applicable	Not Applicable
+	"Florida"	"12"	"2022 (provisional)"	"2022"	3947	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2022 (provisional)"	"2022"	1360	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2022 (provisional)"	"2022"	163	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2022 (provisional)"	"2022"	194	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2022 (provisional)"	"2022"	2018	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2022 (provisional)"	"2022"	1446	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2022 (provisional)"	"2022"	270	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2022 (provisional)"	"2022"	427	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2022 (provisional)"	"2022"	1213	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2022 (provisional)"	"2022"	1230	Not Applicable	Not Applicable
+	"Maine"	"23"	"2022 (provisional)"	"2022"	392	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2022 (provisional)"	"2022"	1329	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2022 (provisional)"	"2022"	1372	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2022 (provisional)"	"2022"	1570	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2022 (provisional)"	"2022"	776	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2022 (provisional)"	"2022"	364	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2022 (provisional)"	"2022"	1222	Not Applicable	Not Applicable
+	"Montana"	"30"	"2022 (provisional)"	"2022"	96	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2022 (provisional)"	"2022"	112	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2022 (provisional)"	"2022"	620	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2022 (provisional)"	"2022"	231	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2022 (provisional)"	"2022"	1482	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2022 (provisional)"	"2022"	549	Not Applicable	Not Applicable
+	"New York"	"36"	"2022 (provisional)"	"2022"	3464	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2022 (provisional)"	"2022"	2136	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2022 (provisional)"	"2022"	79	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2022 (provisional)"	"2022"	2808	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2022 (provisional)"	"2022"	685	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2022 (provisional)"	"2022"	785	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2022 (provisional)"	"2022"	2712	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2022 (provisional)"	"2022"	222	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2022 (provisional)"	"2022"	1225	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2022 (provisional)"	"2022"	50	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2022 (provisional)"	"2022"	2088	Not Applicable	Not Applicable
+	"Texas"	"48"	"2022 (provisional)"	"2022"	3076	Not Applicable	Not Applicable
+	"Utah"	"49"	"2022 (provisional)"	"2022"	362	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2022 (provisional)"	"2022"	155	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2022 (provisional)"	"2022"	1289	Not Applicable	Not Applicable
+	"Washington"	"53"	"2022 (provisional)"	"2022"	1661	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2022 (provisional)"	"2022"	730	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2022 (provisional)"	"2022"	845	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2022 (provisional)"	"2022"	77	Not Applicable	Not Applicable
+"---"
+"Dataset: Provisional Mortality Statistics, 2018 through Last Week"
+"Query Parameters:"
+"MCD - Drug/Alcohol Induced Causes: Drug poisonings (overdose) Unintentional (X40-X44); Drug poisonings (overdose) Suicide"
+"(X60-X64); Drug poisonings (overdose) Homicide (X85); Drug poisonings (overdose) Undetermined (Y10-Y14)"
+"Year/Month: Jul., 2022 (provisional); Aug., 2022 (provisional); Sep., 2022 (provisional); Oct., 2022 (provisional); Nov., 2022"
+"(provisional); Dec., 2022 (provisional)"
+"Group By: Occurrence State; Year"
+"Show Totals: False"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-provisional.html for more information."
+"---"
+"Query Date: Oct 13, 2023 8:05:33 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2021,"
+"and from provisional data for years 2022-2023, as compiled from data provided by the 57 vital statistics jurisdictions through"
+"the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Oct 13, 2023 8:05:33"
+"PM"
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when location of Death's Occurrence, Autopsy, Place of Death, Weekday or"
+"Month are grouped by or limited, due to lack of a valid population. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#NotApplicableRates."
+"2. These items in the results table are not fully selected: 2022 (provisional). The Query Description lists the actual values"
+"selected."
+"3. Deaths related to external causes of injury or sudden death: The provisional number of deaths and related statistics for"
+"external causes of injury (ICD-10 codes V01-Y89) are not shown for the most recent 24 weeks prior to the final data in the"
+"provisional data, due to a 6-month lag to account for delays in death certificate completion. <i>These deaths are included in"
+"the ""all causes"" statistics and the cause of death is temporarily categorized as ""999"" during the 24 week time period</i>."
+"4. Deaths occurring through September 30, 2023 as of October 08, 2023."

@@ -1,0 +1,130 @@
+"Notes"	"State"	"State Code"	"Year"	"Year Code"	Deaths	Population	Crude Rate	% of Total Deaths
+	"Alabama"	"01"	"2021 "	"2021"	751	Not Applicable	Not Applicable	1.323767891%
+"Total"	"Alabama"	"01"			751	Not Applicable	Not Applicable	1.323767891%
+	"Alaska"	"02"	"2021 "	"2021"	141	Not Applicable	Not Applicable	0.248536981%
+"Total"	"Alaska"	"02"			141	Not Applicable	Not Applicable	0.248536981%
+	"Arizona"	"04"	"2021 "	"2021"	1492	Not Applicable	Not Applicable	2.629909046%
+"Total"	"Arizona"	"04"			1492	Not Applicable	Not Applicable	2.629909046%
+	"Arkansas"	"05"	"2021 "	"2021"	348	Not Applicable	Not Applicable	0.613410421%
+"Total"	"Arkansas"	"05"			348	Not Applicable	Not Applicable	0.613410421%
+	"California"	"06"	"2021 "	"2021"	5963	Not Applicable	Not Applicable	10.510822816%
+"Total"	"California"	"06"			5963	Not Applicable	Not Applicable	10.510822816%
+	"Colorado"	"08"	"2021 "	"2021"	1037	Not Applicable	Not Applicable	1.827892547%
+"Total"	"Colorado"	"08"			1037	Not Applicable	Not Applicable	1.827892547%
+	"Connecticut"	"09"	"2021 "	"2021"	771	Not Applicable	Not Applicable	1.359021364%
+"Total"	"Connecticut"	"09"			771	Not Applicable	Not Applicable	1.359021364%
+	"Delaware"	"10"	"2021 "	"2021"	275	Not Applicable	Not Applicable	0.484735246%
+"Total"	"Delaware"	"10"			275	Not Applicable	Not Applicable	0.484735246%
+	"District of Columbia"	"11"	"2021 "	"2021"	225	Not Applicable	Not Applicable	0.396601565%
+"Total"	"District of Columbia"	"11"			225	Not Applicable	Not Applicable	0.396601565%
+	"Florida"	"12"	"2021 "	"2021"	4155	Not Applicable	Not Applicable	7.323908905%
+"Total"	"Florida"	"12"			4155	Not Applicable	Not Applicable	7.323908905%
+	"Georgia"	"13"	"2021 "	"2021"	1332	Not Applicable	Not Applicable	2.347881266%
+"Total"	"Georgia"	"13"			1332	Not Applicable	Not Applicable	2.347881266%
+	"Hawaii"	"15"	"2021 "	"2021"	133	Not Applicable	Not Applicable	0.234435592%
+"Total"	"Hawaii"	"15"			133	Not Applicable	Not Applicable	0.234435592%
+	"Idaho"	"16"	"2021 "	"2021"	186	Not Applicable	Not Applicable	0.327857294%
+"Total"	"Idaho"	"16"			186	Not Applicable	Not Applicable	0.327857294%
+	"Illinois"	"17"	"2021 "	"2021"	1890	Not Applicable	Not Applicable	3.331453148%
+"Total"	"Illinois"	"17"			1890	Not Applicable	Not Applicable	3.331453148%
+	"Indiana"	"18"	"2021 "	"2021"	1471	Not Applicable	Not Applicable	2.592892900%
+"Total"	"Indiana"	"18"			1471	Not Applicable	Not Applicable	2.592892900%
+	"Iowa"	"19"	"2021 "	"2021"	262	Not Applicable	Not Applicable	0.461820489%
+"Total"	"Iowa"	"19"			262	Not Applicable	Not Applicable	0.461820489%
+	"Kansas"	"20"	"2021 "	"2021"	372	Not Applicable	Not Applicable	0.655714588%
+"Total"	"Kansas"	"20"			372	Not Applicable	Not Applicable	0.655714588%
+	"Kentucky"	"21"	"2021 "	"2021"	1260	Not Applicable	Not Applicable	2.220968765%
+"Total"	"Kentucky"	"21"			1260	Not Applicable	Not Applicable	2.220968765%
+	"Louisiana"	"22"	"2021 "	"2021"	1298	Not Applicable	Not Applicable	2.287950363%
+"Total"	"Louisiana"	"22"			1298	Not Applicable	Not Applicable	2.287950363%
+	"Maine"	"23"	"2021 "	"2021"	302	Not Applicable	Not Applicable	0.532327434%
+"Total"	"Maine"	"23"			302	Not Applicable	Not Applicable	0.532327434%
+	"Maryland"	"24"	"2021 "	"2021"	1503	Not Applicable	Not Applicable	2.649298456%
+"Total"	"Maryland"	"24"			1503	Not Applicable	Not Applicable	2.649298456%
+	"Massachusetts"	"25"	"2021 "	"2021"	1304	Not Applicable	Not Applicable	2.298526405%
+"Total"	"Massachusetts"	"25"			1304	Not Applicable	Not Applicable	2.298526405%
+	"Michigan"	"26"	"2021 "	"2021"	1659	Not Applicable	Not Applicable	2.924275541%
+"Total"	"Michigan"	"26"			1659	Not Applicable	Not Applicable	2.924275541%
+	"Minnesota"	"27"	"2021 "	"2021"	691	Not Applicable	Not Applicable	1.218007474%
+"Total"	"Minnesota"	"27"			691	Not Applicable	Not Applicable	1.218007474%
+	"Mississippi"	"28"	"2021 "	"2021"	435	Not Applicable	Not Applicable	0.766763026%
+"Total"	"Mississippi"	"28"			435	Not Applicable	Not Applicable	0.766763026%
+	"Missouri"	"29"	"2021 "	"2021"	1249	Not Applicable	Not Applicable	2.201579356%
+"Total"	"Missouri"	"29"			1249	Not Applicable	Not Applicable	2.201579356%
+	"Montana"	"30"	"2021 "	"2021"	108	Not Applicable	Not Applicable	0.190368751%
+"Total"	"Montana"	"30"			108	Not Applicable	Not Applicable	0.190368751%
+	"Nebraska"	"31"	"2021 "	"2021"	120	Not Applicable	Not Applicable	0.211520835%
+"Total"	"Nebraska"	"31"			120	Not Applicable	Not Applicable	0.211520835%
+	"Nevada"	"32"	"2021 "	"2021"	549	Not Applicable	Not Applicable	0.967707819%
+"Total"	"Nevada"	"32"			549	Not Applicable	Not Applicable	0.967707819%
+	"New Hampshire"	"33"	"2021 "	"2021"	216	Not Applicable	Not Applicable	0.380737503%
+"Total"	"New Hampshire"	"33"			216	Not Applicable	Not Applicable	0.380737503%
+	"New Jersey"	"34"	"2021 "	"2021"	1604	Not Applicable	Not Applicable	2.827328492%
+"Total"	"New Jersey"	"34"			1604	Not Applicable	Not Applicable	2.827328492%
+	"New Mexico"	"35"	"2021 "	"2021"	611	Not Applicable	Not Applicable	1.076993584%
+"Total"	"New Mexico"	"35"			611	Not Applicable	Not Applicable	1.076993584%
+	"New York"	"36"	"2021 "	"2021"	2984	Not Applicable	Not Applicable	5.259818092%
+"Total"	"New York"	"36"			2984	Not Applicable	Not Applicable	5.259818092%
+	"North Carolina"	"37"	"2021 "	"2021"	2060	Not Applicable	Not Applicable	3.631107664%
+"Total"	"North Carolina"	"37"			2060	Not Applicable	Not Applicable	3.631107664%
+	"North Dakota"	"38"	"2021 "	"2021"	70	Not Applicable	Not Applicable	0.123387154%
+"Total"	"North Dakota"	"38"			70	Not Applicable	Not Applicable	0.123387154%
+	"Ohio"	"39"	"2021 "	"2021"	2916	Not Applicable	Not Applicable	5.139956286%
+"Total"	"Ohio"	"39"			2916	Not Applicable	Not Applicable	5.139956286%
+	"Oklahoma"	"40"	"2021 "	"2021"	508	Not Applicable	Not Applicable	0.895438201%
+"Total"	"Oklahoma"	"40"			508	Not Applicable	Not Applicable	0.895438201%
+	"Oregon"	"41"	"2021 "	"2021"	627	Not Applicable	Not Applicable	1.105196362%
+"Total"	"Oregon"	"41"			627	Not Applicable	Not Applicable	1.105196362%
+	"Pennsylvania"	"42"	"2021 "	"2021"	2824	Not Applicable	Not Applicable	4.977790312%
+"Total"	"Pennsylvania"	"42"			2824	Not Applicable	Not Applicable	4.977790312%
+	"Rhode Island"	"44"	"2021 "	"2021"	228	Not Applicable	Not Applicable	0.401889586%
+"Total"	"Rhode Island"	"44"			228	Not Applicable	Not Applicable	0.401889586%
+	"South Carolina"	"45"	"2021 "	"2021"	1077	Not Applicable	Not Applicable	1.898399492%
+"Total"	"South Carolina"	"45"			1077	Not Applicable	Not Applicable	1.898399492%
+	"South Dakota"	"46"	"2021 "	"2021"	51	Not Applicable	Not Applicable	0.089896355%
+"Total"	"South Dakota"	"46"			51	Not Applicable	Not Applicable	0.089896355%
+	"Tennessee"	"47"	"2021 "	"2021"	1999	Not Applicable	Not Applicable	3.523584573%
+"Total"	"Tennessee"	"47"			1999	Not Applicable	Not Applicable	3.523584573%
+	"Texas"	"48"	"2021 "	"2021"	2821	Not Applicable	Not Applicable	4.972502291%
+"Total"	"Texas"	"48"			2821	Not Applicable	Not Applicable	4.972502291%
+	"Utah"	"49"	"2021 "	"2021"	366	Not Applicable	Not Applicable	0.645138546%
+"Total"	"Utah"	"49"			366	Not Applicable	Not Applicable	0.645138546%
+	"Vermont"	"50"	"2021 "	"2021"	117	Not Applicable	Not Applicable	0.206232814%
+"Total"	"Vermont"	"50"			117	Not Applicable	Not Applicable	0.206232814%
+	"Virginia"	"51"	"2021 "	"2021"	1358	Not Applicable	Not Applicable	2.393710781%
+"Total"	"Virginia"	"51"			1358	Not Applicable	Not Applicable	2.393710781%
+	"Washington"	"53"	"2021 "	"2021"	1170	Not Applicable	Not Applicable	2.062328139%
+"Total"	"Washington"	"53"			1170	Not Applicable	Not Applicable	2.062328139%
+	"West Virginia"	"54"	"2021 "	"2021"	850	Not Applicable	Not Applicable	1.498272580%
+"Total"	"West Virginia"	"54"			850	Not Applicable	Not Applicable	1.498272580%
+	"Wisconsin"	"55"	"2021 "	"2021"	932	Not Applicable	Not Applicable	1.642811817%
+"Total"	"Wisconsin"	"55"			932	Not Applicable	Not Applicable	1.642811817%
+	"Wyoming"	"56"	"2021 "	"2021"	61	Not Applicable	Not Applicable	0.107523091%
+"Total"	"Wyoming"	"56"			61	Not Applicable	Not Applicable	0.107523091%
+"Total"					56732	Not Applicable	Not Applicable	100.000000000%
+"---"
+"Dataset: Multiple Cause of Death, 2018-2021, Single Race"
+"Query Parameters:"
+"MCD - Drug/Alcohol Induced Causes: Drug poisonings (overdose) Unintentional (X40-X44); Drug poisonings (overdose) Suicide"
+"(X60-X64); Drug poisonings (overdose) Undetermined (Y10-Y14)"
+"Year/Month: Jan., 2021 ; Feb., 2021 ; Mar., 2021 ; Apr., 2021 ; May, 2021 ; Jun., 2021"
+"Group By: State; Year"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-expanded.html for more information."
+"---"
+"Query Date: Aug 10, 2023 6:38:59 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 2018-2021 on CDC WONDER Online Database, released in 2023. Data are from the Multiple Cause of Death Files,"
+"2018-2021, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10-expanded.html on Aug 10, 2023 6:38:59 PM"
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when Autopsy, Place of Death, Weekday or Month are grouped by or limited,"
+"due to lack of a valid population. More information: http://wonder.cdc.gov/wonder/help/mcd-expanded.html#NotApplicableRates."
+"2. These items in the results table are not fully selected: 2021 . The Query Description lists the actual values selected."

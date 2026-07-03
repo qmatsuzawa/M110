@@ -1,0 +1,715 @@
+"Notes"	"State"	"State Code"	"Year"	"Year Code"	Deaths	Population	Crude Rate
+	"Alabama"	"01"	"2008"	"2008"	321	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2009"	"2009"	338	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2010"	"2010"	298	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2011"	"2011"	323	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2012"	"2012"	307	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2013"	"2013"	321	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2014"	"2014"	390	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2015"	"2015"	432	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2016"	"2016"	395	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2017"	"2017"	471	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2018"	"2018"	426	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2019"	"2019"	398	Not Applicable	Not Applicable
+	"Alabama"	"01"	"2020 "	"2020"	572	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2008"	"2008"	92	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2009"	"2009"	82	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2010"	"2010"	61	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2011"	"2011"	57	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2012"	"2012"	67	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2013"	"2013"	48	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2014"	"2014"	56	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2015"	"2015"	61	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2016"	"2016"	77	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2017"	"2017"	75	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2018"	"2018"	61	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2019"	"2019"	93	Not Applicable	Not Applicable
+	"Alaska"	"02"	"2020 "	"2020"	96	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2008"	"2008"	461	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2009"	"2009"	485	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2010"	"2010"	581	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2011"	"2011"	597	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2012"	"2012"	646	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2013"	"2013"	659	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2014"	"2014"	669	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2015"	"2015"	664	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2016"	"2016"	778	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2017"	"2017"	829	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2018"	"2018"	901	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2019"	"2019"	918	Not Applicable	Not Applicable
+	"Arizona"	"04"	"2020 "	"2020"	1312	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2008"	"2008"	194	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2009"	"2009"	194	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2010"	"2010"	209	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2011"	"2011"	219	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2012"	"2012"	223	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2013"	"2013"	188	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2014"	"2014"	206	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2015"	"2015"	238	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2016"	"2016"	220	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2017"	"2017"	251	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2018"	"2018"	262	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2019"	"2019"	230	Not Applicable	Not Applicable
+	"Arkansas"	"05"	"2020 "	"2020"	311	Not Applicable	Not Applicable
+	"California"	"06"	"2008"	"2008"	2289	Not Applicable	Not Applicable
+	"California"	"06"	"2009"	"2009"	2389	Not Applicable	Not Applicable
+	"California"	"06"	"2010"	"2010"	2342	Not Applicable	Not Applicable
+	"California"	"06"	"2011"	"2011"	2434	Not Applicable	Not Applicable
+	"California"	"06"	"2012"	"2012"	2420	Not Applicable	Not Applicable
+	"California"	"06"	"2013"	"2013"	2607	Not Applicable	Not Applicable
+	"California"	"06"	"2014"	"2014"	2710	Not Applicable	Not Applicable
+	"California"	"06"	"2015"	"2015"	2697	Not Applicable	Not Applicable
+	"California"	"06"	"2016"	"2016"	2776	Not Applicable	Not Applicable
+	"California"	"06"	"2017"	"2017"	2827	Not Applicable	Not Applicable
+	"California"	"06"	"2018"	"2018"	3014	Not Applicable	Not Applicable
+	"California"	"06"	"2019"	"2019"	3429	Not Applicable	Not Applicable
+	"California"	"06"	"2020 "	"2020"	4506	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2008"	"2008"	417	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2009"	"2009"	418	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2010"	"2010"	369	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2011"	"2011"	421	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2012"	"2012"	435	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2013"	"2013"	469	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2014"	"2014"	483	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2015"	"2015"	478	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2016"	"2016"	499	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2017"	"2017"	551	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2018"	"2018"	571	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2019"	"2019"	587	Not Applicable	Not Applicable
+	"Colorado"	"08"	"2020 "	"2020"	808	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2008"	"2008"	206	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2009"	"2009"	213	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2010"	"2010"	197	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2011"	"2011"	211	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2012"	"2012"	220	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2013"	"2013"	265	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2014"	"2014"	326	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2015"	"2015"	364	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2016"	"2016"	487	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2017"	"2017"	565	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2018"	"2018"	562	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2019"	"2019"	583	Not Applicable	Not Applicable
+	"Connecticut"	"09"	"2020 "	"2020"	699	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2008"	"2008"	66	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2009"	"2009"	85	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2010"	"2010"	89	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2011"	"2011"	87	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2012"	"2012"	74	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2013"	"2013"	71	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2014"	"2014"	100	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2015"	"2015"	109	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2016"	"2016"	135	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2017"	"2017"	167	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2018"	"2018"	196	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2019"	"2019"	209	Not Applicable	Not Applicable
+	"Delaware"	"10"	"2020 "	"2020"	259	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2008"	"2008"	54	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2009"	"2009"	12	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2010"	"2010"	46	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2011"	"2011"	48	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2012"	"2012"	34	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2013"	"2013"	46	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2014"	"2014"	48	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2015"	"2015"	59	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2016"	"2016"	114	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2017"	"2017"	195	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2018"	"2018"	139	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2019"	"2019"	140	Not Applicable	Not Applicable
+	"District of Columbia"	"11"	"2020 "	"2020"	235	Not Applicable	Not Applicable
+	"Florida"	"12"	"2008"	"2008"	1632	Not Applicable	Not Applicable
+	"Florida"	"12"	"2009"	"2009"	1638	Not Applicable	Not Applicable
+	"Florida"	"12"	"2010"	"2010"	1681	Not Applicable	Not Applicable
+	"Florida"	"12"	"2011"	"2011"	1589	Not Applicable	Not Applicable
+	"Florida"	"12"	"2012"	"2012"	1468	Not Applicable	Not Applicable
+	"Florida"	"12"	"2013"	"2013"	1353	Not Applicable	Not Applicable
+	"Florida"	"12"	"2014"	"2014"	1341	Not Applicable	Not Applicable
+	"Florida"	"12"	"2015"	"2015"	1634	Not Applicable	Not Applicable
+	"Florida"	"12"	"2016"	"2016"	2087	Not Applicable	Not Applicable
+	"Florida"	"12"	"2017"	"2017"	2690	Not Applicable	Not Applicable
+	"Florida"	"12"	"2018"	"2018"	2464	Not Applicable	Not Applicable
+	"Florida"	"12"	"2019"	"2019"	2572	Not Applicable	Not Applicable
+	"Florida"	"12"	"2020 "	"2020"	3839	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2008"	"2008"	548	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2009"	"2009"	521	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2010"	"2010"	578	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2011"	"2011"	551	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2012"	"2012"	595	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2013"	"2013"	618	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2014"	"2014"	623	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2015"	"2015"	732	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2016"	"2016"	708	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2017"	"2017"	848	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2018"	"2018"	766	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2019"	"2019"	770	Not Applicable	Not Applicable
+	"Georgia"	"13"	"2020 "	"2020"	1012	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2008"	"2008"	59	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2009"	"2009"	68	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2010"	"2010"	77	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2011"	"2011"	101	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2012"	"2012"	96	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2013"	"2013"	83	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2014"	"2014"	96	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2015"	"2015"	86	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2016"	"2016"	111	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2017"	"2017"	97	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2018"	"2018"	115	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2019"	"2019"	118	Not Applicable	Not Applicable
+	"Hawaii"	"15"	"2020 "	"2020"	142	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2008"	"2008"	74	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2009"	"2009"	86	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2010"	"2010"	93	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2011"	"2011"	91	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2012"	"2012"	104	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2013"	"2013"	113	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2014"	"2014"	122	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2015"	"2015"	129	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2016"	"2016"	142	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2017"	"2017"	137	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2018"	"2018"	146	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2019"	"2019"	156	Not Applicable	Not Applicable
+	"Idaho"	"16"	"2020 "	"2020"	151	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2008"	"2008"	784	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2009"	"2009"	786	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2010"	"2010"	706	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2011"	"2011"	736	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2012"	"2012"	892	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2013"	"2013"	891	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2014"	"2014"	884	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2015"	"2015"	927	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2016"	"2016"	1285	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2017"	"2017"	1361	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2018"	"2018"	1456	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2019"	"2019"	1348	Not Applicable	Not Applicable
+	"Illinois"	"17"	"2020 "	"2020"	1979	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2008"	"2008"	435	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2009"	"2009"	478	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2010"	"2010"	485	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2011"	"2011"	524	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2012"	"2012"	564	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2013"	"2013"	584	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2014"	"2014"	607	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2015"	"2015"	682	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2016"	"2016"	800	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2017"	"2017"	1020	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2018"	"2018"	891	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2019"	"2019"	893	Not Applicable	Not Applicable
+	"Indiana"	"18"	"2020 "	"2020"	1287	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2008"	"2008"	133	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2009"	"2009"	129	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2010"	"2010"	161	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2011"	"2011"	144	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2012"	"2012"	139	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2013"	"2013"	152	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2014"	"2014"	140	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2015"	"2015"	184	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2016"	"2016"	187	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2017"	"2017"	216	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2018"	"2018"	183	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2019"	"2019"	181	Not Applicable	Not Applicable
+	"Iowa"	"19"	"2020 "	"2020"	259	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2008"	"2008"	86	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2009"	"2009"	155	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2010"	"2010"	155	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2011"	"2011"	177	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2012"	"2012"	165	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2013"	"2013"	201	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2014"	"2014"	199	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2015"	"2015"	207	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2016"	"2016"	194	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2017"	"2017"	180	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2018"	"2018"	207	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2019"	"2019"	259	Not Applicable	Not Applicable
+	"Kansas"	"20"	"2020 "	"2020"	274	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2008"	"2008"	394	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2009"	"2009"	383	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2010"	"2010"	561	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2011"	"2011"	582	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2012"	"2012"	624	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2013"	"2013"	564	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2014"	"2014"	542	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2015"	"2015"	658	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2016"	"2016"	760	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2017"	"2017"	884	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2018"	"2018"	695	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2019"	"2019"	719	Not Applicable	Not Applicable
+	"Kentucky"	"21"	"2020 "	"2020"	1075	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2008"	"2008"	388	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2009"	"2009"	332	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2010"	"2010"	353	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2011"	"2011"	335	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2012"	"2012"	279	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2013"	"2013"	403	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2014"	"2014"	460	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2015"	"2015"	478	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2016"	"2016"	552	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2017"	"2017"	586	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2018"	"2018"	680	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2019"	"2019"	646	Not Applicable	Not Applicable
+	"Louisiana"	"22"	"2020 "	"2020"	955	Not Applicable	Not Applicable
+	"Maine"	"23"	"2008"	"2008"	82	Not Applicable	Not Applicable
+	"Maine"	"23"	"2009"	"2009"	106	Not Applicable	Not Applicable
+	"Maine"	"23"	"2010"	"2010"	90	Not Applicable	Not Applicable
+	"Maine"	"23"	"2011"	"2011"	96	Not Applicable	Not Applicable
+	"Maine"	"23"	"2012"	"2012"	77	Not Applicable	Not Applicable
+	"Maine"	"23"	"2013"	"2013"	98	Not Applicable	Not Applicable
+	"Maine"	"23"	"2014"	"2014"	104	Not Applicable	Not Applicable
+	"Maine"	"23"	"2015"	"2015"	137	Not Applicable	Not Applicable
+	"Maine"	"23"	"2016"	"2016"	188	Not Applicable	Not Applicable
+	"Maine"	"23"	"2017"	"2017"	194	Not Applicable	Not Applicable
+	"Maine"	"23"	"2018"	"2018"	185	Not Applicable	Not Applicable
+	"Maine"	"23"	"2019"	"2019"	178	Not Applicable	Not Applicable
+	"Maine"	"23"	"2020 "	"2020"	265	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2008"	"2008"	366	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2009"	"2009"	345	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2010"	"2010"	323	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2011"	"2011"	372	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2012"	"2012"	420	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2013"	"2013"	419	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2014"	"2014"	546	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2015"	"2015"	623	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2016"	"2016"	992	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2017"	"2017"	1172	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2018"	"2018"	1323	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2019"	"2019"	1238	Not Applicable	Not Applicable
+	"Maryland"	"24"	"2020 "	"2020"	1363	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2008"	"2008"	438	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2009"	"2009"	418	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2010"	"2010"	386	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2011"	"2011"	414	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2012"	"2012"	432	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2013"	"2013"	567	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2014"	"2014"	720	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2015"	"2015"	844	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2016"	"2016"	1150	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2017"	"2017"	1054	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2018"	"2018"	1181	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2019"	"2019"	1121	Not Applicable	Not Applicable
+	"Massachusetts"	"25"	"2020 "	"2020"	1204	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2008"	"2008"	668	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2009"	"2009"	765	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2010"	"2010"	694	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2011"	"2011"	747	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2012"	"2012"	731	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2013"	"2013"	822	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2014"	"2014"	868	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2015"	"2015"	1115	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2016"	"2016"	1084	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2017"	"2017"	1352	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2018"	"2018"	1375	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2019"	"2019"	1223	Not Applicable	Not Applicable
+	"Michigan"	"26"	"2020 "	"2020"	1502	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2008"	"2008"	199	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2009"	"2009"	228	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2010"	"2010"	204	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2011"	"2011"	277	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2012"	"2012"	275	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2013"	"2013"	312	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2014"	"2014"	277	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2015"	"2015"	304	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2016"	"2016"	367	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2017"	"2017"	395	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2018"	"2018"	344	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2019"	"2019"	420	Not Applicable	Not Applicable
+	"Minnesota"	"27"	"2020 "	"2020"	535	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2008"	"2008"	157	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2009"	"2009"	172	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2010"	"2010"	191	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2011"	"2011"	183	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2012"	"2012"	167	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2013"	"2013"	179	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2014"	"2014"	195	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2015"	"2015"	209	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2016"	"2016"	184	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2017"	"2017"	191	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2018"	"2018"	163	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2019"	"2019"	213	Not Applicable	Not Applicable
+	"Mississippi"	"28"	"2020 "	"2020"	296	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2008"	"2008"	411	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2009"	"2009"	498	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2010"	"2010"	531	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2011"	"2011"	495	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2012"	"2012"	487	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2013"	"2013"	563	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2014"	"2014"	591	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2015"	"2015"	601	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2016"	"2016"	705	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2017"	"2017"	749	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2018"	"2018"	836	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2019"	"2019"	794	Not Applicable	Not Applicable
+	"Missouri"	"29"	"2020 "	"2020"	1094	Not Applicable	Not Applicable
+	"Montana"	"30"	"2008"	"2008"	66	Not Applicable	Not Applicable
+	"Montana"	"30"	"2009"	"2009"	83	Not Applicable	Not Applicable
+	"Montana"	"30"	"2010"	"2010"	68	Not Applicable	Not Applicable
+	"Montana"	"30"	"2011"	"2011"	79	Not Applicable	Not Applicable
+	"Montana"	"30"	"2012"	"2012"	68	Not Applicable	Not Applicable
+	"Montana"	"30"	"2013"	"2013"	83	Not Applicable	Not Applicable
+	"Montana"	"30"	"2014"	"2014"	64	Not Applicable	Not Applicable
+	"Montana"	"30"	"2015"	"2015"	80	Not Applicable	Not Applicable
+	"Montana"	"30"	"2016"	"2016"	68	Not Applicable	Not Applicable
+	"Montana"	"30"	"2017"	"2017"	73	Not Applicable	Not Applicable
+	"Montana"	"30"	"2018"	"2018"	70	Not Applicable	Not Applicable
+	"Montana"	"30"	"2019"	"2019"	79	Not Applicable	Not Applicable
+	"Montana"	"30"	"2020 "	"2020"	85	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2008"	"2008"	46	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2009"	"2009"	66	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2010"	"2010"	65	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2011"	"2011"	73	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2012"	"2012"	75	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2013"	"2013"	73	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2014"	"2014"	68	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2015"	"2015"	79	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2016"	"2016"	74	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2017"	"2017"	82	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2018"	"2018"	80	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2019"	"2019"	86	Not Applicable	Not Applicable
+	"Nebraska"	"31"	"2020 "	"2020"	120	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2008"	"2008"	278	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2009"	"2009"	328	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2010"	"2010"	347	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2011"	"2011"	391	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2012"	"2012"	336	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2013"	"2013"	377	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2014"	"2014"	319	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2015"	"2015"	362	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2016"	"2016"	388	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2017"	"2017"	399	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2018"	"2018"	372	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2019"	"2019"	371	Not Applicable	Not Applicable
+	"Nevada"	"32"	"2020 "	"2020"	444	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2008"	"2008"	59	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2009"	"2009"	90	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2010"	"2010"	108	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2011"	"2011"	115	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2012"	"2012"	86	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2013"	"2013"	104	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2014"	"2014"	145	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2015"	"2015"	225	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2016"	"2016"	260	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2017"	"2017"	232	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2018"	"2018"	221	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2019"	"2019"	210	Not Applicable	Not Applicable
+	"New Hampshire"	"33"	"2020 "	"2020"	217	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2008"	"2008"	392	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2009"	"2009"	124	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2010"	"2010"	456	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2011"	"2011"	502	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2012"	"2012"	634	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2013"	"2013"	724	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2014"	"2014"	673	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2015"	"2015"	749	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2016"	"2016"	1019	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2017"	"2017"	1453	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2018"	"2018"	1458	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2019"	"2019"	1322	Not Applicable	Not Applicable
+	"New Jersey"	"34"	"2020 "	"2020"	1537	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2008"	"2008"	302	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2009"	"2009"	248	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2010"	"2010"	285	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2011"	"2011"	325	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2012"	"2012"	282	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2013"	"2013"	303	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2014"	"2014"	289	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2015"	"2015"	287	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2016"	"2016"	274	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2017"	"2017"	286	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2018"	"2018"	307	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2019"	"2019"	316	Not Applicable	Not Applicable
+	"New Mexico"	"35"	"2020 "	"2020"	401	Not Applicable	Not Applicable
+	"New York"	"36"	"2008"	"2008"	951	Not Applicable	Not Applicable
+	"New York"	"36"	"2009"	"2009"	792	Not Applicable	Not Applicable
+	"New York"	"36"	"2010"	"2010"	833	Not Applicable	Not Applicable
+	"New York"	"36"	"2011"	"2011"	1072	Not Applicable	Not Applicable
+	"New York"	"36"	"2012"	"2012"	1052	Not Applicable	Not Applicable
+	"New York"	"36"	"2013"	"2013"	1186	Not Applicable	Not Applicable
+	"New York"	"36"	"2014"	"2014"	1228	Not Applicable	Not Applicable
+	"New York"	"36"	"2015"	"2015"	1411	Not Applicable	Not Applicable
+	"New York"	"36"	"2016"	"2016"	1897	Not Applicable	Not Applicable
+	"New York"	"36"	"2017"	"2017"	2172	Not Applicable	Not Applicable
+	"New York"	"36"	"2018"	"2018"	1975	Not Applicable	Not Applicable
+	"New York"	"36"	"2019"	"2019"	1823	Not Applicable	Not Applicable
+	"New York"	"36"	"2020 "	"2020"	2567	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2008"	"2008"	613	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2009"	"2009"	657	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2010"	"2010"	602	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2011"	"2011"	644	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2012"	"2012"	655	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2013"	"2013"	631	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2014"	"2014"	694	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2015"	"2015"	772	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2016"	"2016"	1026	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2017"	"2017"	1278	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2018"	"2018"	1188	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2019"	"2019"	1244	Not Applicable	Not Applicable
+	"North Carolina"	"37"	"2020 "	"2020"	1672	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2008"	"2008"	26	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2009"	"2009"	17	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2010"	"2010"	17	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2011"	"2011"	11	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2012"	"2012"	10	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2013"	"2013"	Suppressed	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2014"	"2014"	26	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2015"	"2015"	44	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2016"	"2016"	46	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2017"	"2017"	42	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2018"	"2018"	42	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2019"	"2019"	50	Not Applicable	Not Applicable
+	"North Dakota"	"38"	"2020 "	"2020"	64	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2008"	"2008"	955	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2009"	"2009"	491	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2010"	"2010"	982	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2011"	"2011"	1074	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2012"	"2012"	1192	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2013"	"2013"	1271	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2014"	"2014"	1406	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2015"	"2015"	1703	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2016"	"2016"	2048	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2017"	"2017"	2995	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2018"	"2018"	2020	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2019"	"2019"	2158	Not Applicable	Not Applicable
+	"Ohio"	"39"	"2020 "	"2020"	2746	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2008"	"2008"	351	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2009"	"2009"	413	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2010"	"2010"	424	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2011"	"2011"	374	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2012"	"2012"	405	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2013"	"2013"	412	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2014"	"2014"	454	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2015"	"2015"	430	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2016"	"2016"	435	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2017"	"2017"	487	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2018"	"2018"	442	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2019"	"2019"	330	Not Applicable	Not Applicable
+	"Oklahoma"	"40"	"2020 "	"2020"	414	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2008"	"2008"	249	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2009"	"2009"	269	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2010"	"2010"	247	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2011"	"2011"	286	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2012"	"2012"	256	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2013"	"2013"	260	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2014"	"2014"	269	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2015"	"2015"	261	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2016"	"2016"	289	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2017"	"2017"	278	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2018"	"2018"	317	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2019"	"2019"	337	Not Applicable	Not Applicable
+	"Oregon"	"41"	"2020 "	"2020"	418	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2008"	"2008"	963	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2009"	"2009"	1043	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2010"	"2010"	1004	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2011"	"2011"	1184	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2012"	"2012"	1202	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2013"	"2013"	1231	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2014"	"2014"	1454	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2015"	"2015"	1664	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2016"	"2016"	2031	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2017"	"2017"	2913	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2018"	"2018"	2286	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2019"	"2019"	2136	Not Applicable	Not Applicable
+	"Pennsylvania"	"42"	"2020 "	"2020"	2622	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2008"	"2008"	97	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2009"	"2009"	69	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2010"	"2010"	80	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2011"	"2011"	102	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2012"	"2012"	106	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2013"	"2013"	136	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2014"	"2014"	129	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2015"	"2015"	170	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2016"	"2016"	178	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2017"	"2017"	157	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2018"	"2018"	161	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2019"	"2019"	174	Not Applicable	Not Applicable
+	"Rhode Island"	"44"	"2020 "	"2020"	197	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2008"	"2008"	331	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2009"	"2009"	340	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2010"	"2010"	373	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2011"	"2011"	317	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2012"	"2012"	329	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2013"	"2013"	344	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2014"	"2014"	356	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2015"	"2015"	408	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2016"	"2016"	473	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2017"	"2017"	559	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2018"	"2018"	626	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2019"	"2019"	549	Not Applicable	Not Applicable
+	"South Carolina"	"45"	"2020 "	"2020"	892	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2008"	"2008"	31	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2009"	"2009"	24	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2010"	"2010"	27	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2011"	"2011"	36	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2012"	"2012"	17	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2013"	"2013"	28	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2014"	"2014"	28	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2015"	"2015"	34	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2016"	"2016"	34	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2017"	"2017"	41	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2018"	"2018"	33	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2019"	"2019"	43	Not Applicable	Not Applicable
+	"South Dakota"	"46"	"2020 "	"2020"	56	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2008"	"2008"	510	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2009"	"2009"	549	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2010"	"2010"	595	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2011"	"2011"	597	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2012"	"2012"	624	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2013"	"2013"	640	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2014"	"2014"	691	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2015"	"2015"	761	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2016"	"2016"	850	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2017"	"2017"	945	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2018"	"2018"	971	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2019"	"2019"	1073	Not Applicable	Not Applicable
+	"Tennessee"	"47"	"2020 "	"2020"	1604	Not Applicable	Not Applicable
+	"Texas"	"48"	"2008"	"2008"	1250	Not Applicable	Not Applicable
+	"Texas"	"48"	"2009"	"2009"	1339	Not Applicable	Not Applicable
+	"Texas"	"48"	"2010"	"2010"	1297	Not Applicable	Not Applicable
+	"Texas"	"48"	"2011"	"2011"	1437	Not Applicable	Not Applicable
+	"Texas"	"48"	"2012"	"2012"	1363	Not Applicable	Not Applicable
+	"Texas"	"48"	"2013"	"2013"	1463	Not Applicable	Not Applicable
+	"Texas"	"48"	"2014"	"2014"	1479	Not Applicable	Not Applicable
+	"Texas"	"48"	"2015"	"2015"	1449	Not Applicable	Not Applicable
+	"Texas"	"48"	"2016"	"2016"	1583	Not Applicable	Not Applicable
+	"Texas"	"48"	"2017"	"2017"	1683	Not Applicable	Not Applicable
+	"Texas"	"48"	"2018"	"2018"	1704	Not Applicable	Not Applicable
+	"Texas"	"48"	"2019"	"2019"	1690	Not Applicable	Not Applicable
+	"Texas"	"48"	"2020 "	"2020"	2206	Not Applicable	Not Applicable
+	"Utah"	"49"	"2008"	"2008"	244	Not Applicable	Not Applicable
+	"Utah"	"49"	"2009"	"2009"	275	Not Applicable	Not Applicable
+	"Utah"	"49"	"2010"	"2010"	220	Not Applicable	Not Applicable
+	"Utah"	"49"	"2011"	"2011"	255	Not Applicable	Not Applicable
+	"Utah"	"49"	"2012"	"2012"	317	Not Applicable	Not Applicable
+	"Utah"	"49"	"2013"	"2013"	329	Not Applicable	Not Applicable
+	"Utah"	"49"	"2014"	"2014"	328	Not Applicable	Not Applicable
+	"Utah"	"49"	"2015"	"2015"	313	Not Applicable	Not Applicable
+	"Utah"	"49"	"2016"	"2016"	382	Not Applicable	Not Applicable
+	"Utah"	"49"	"2017"	"2017"	345	Not Applicable	Not Applicable
+	"Utah"	"49"	"2018"	"2018"	367	Not Applicable	Not Applicable
+	"Utah"	"49"	"2019"	"2019"	300	Not Applicable	Not Applicable
+	"Utah"	"49"	"2020 "	"2020"	305	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2008"	"2008"	43	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2009"	"2009"	31	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2010"	"2010"	29	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2011"	"2011"	34	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2012"	"2012"	42	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2013"	"2013"	55	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2014"	"2014"	40	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2015"	"2015"	53	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2016"	"2016"	57	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2017"	"2017"	72	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2018"	"2018"	74	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2019"	"2019"	57	Not Applicable	Not Applicable
+	"Vermont"	"50"	"2020 "	"2020"	88	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2008"	"2008"	370	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2009"	"2009"	369	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2010"	"2010"	333	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2011"	"2011"	405	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2012"	"2012"	369	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2013"	"2013"	445	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2014"	"2014"	500	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2015"	"2015"	520	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2016"	"2016"	697	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2017"	"2017"	777	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2018"	"2018"	721	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2019"	"2019"	774	Not Applicable	Not Applicable
+	"Virginia"	"51"	"2020 "	"2020"	1095	Not Applicable	Not Applicable
+	"Washington"	"53"	"2008"	"2008"	564	Not Applicable	Not Applicable
+	"Washington"	"53"	"2009"	"2009"	538	Not Applicable	Not Applicable
+	"Washington"	"53"	"2010"	"2010"	499	Not Applicable	Not Applicable
+	"Washington"	"53"	"2011"	"2011"	559	Not Applicable	Not Applicable
+	"Washington"	"53"	"2012"	"2012"	537	Not Applicable	Not Applicable
+	"Washington"	"53"	"2013"	"2013"	539	Not Applicable	Not Applicable
+	"Washington"	"53"	"2014"	"2014"	549	Not Applicable	Not Applicable
+	"Washington"	"53"	"2015"	"2015"	618	Not Applicable	Not Applicable
+	"Washington"	"53"	"2016"	"2016"	667	Not Applicable	Not Applicable
+	"Washington"	"53"	"2017"	"2017"	621	Not Applicable	Not Applicable
+	"Washington"	"53"	"2018"	"2018"	637	Not Applicable	Not Applicable
+	"Washington"	"53"	"2019"	"2019"	668	Not Applicable	Not Applicable
+	"Washington"	"53"	"2020 "	"2020"	934	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2008"	"2008"	253	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2009"	"2009"	82	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2010"	"2010"	283	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2011"	"2011"	370	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2012"	"2012"	349	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2013"	"2013"	313	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2014"	"2014"	315	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2015"	"2015"	379	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2016"	"2016"	464	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2017"	"2017"	560	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2018"	"2018"	496	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2019"	"2019"	443	Not Applicable	Not Applicable
+	"West Virginia"	"54"	"2020 "	"2020"	699	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2008"	"2008"	327	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2009"	"2009"	343	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2010"	"2010"	339	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2011"	"2011"	398	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2012"	"2012"	361	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2013"	"2013"	465	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2014"	"2014"	433	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2015"	"2015"	434	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2016"	"2016"	539	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2017"	"2017"	595	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2018"	"2018"	569	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2019"	"2019"	597	Not Applicable	Not Applicable
+	"Wisconsin"	"55"	"2020 "	"2020"	816	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2008"	"2008"	44	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2009"	"2009"	36	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2010"	"2010"	46	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2011"	"2011"	39	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2012"	"2012"	54	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2013"	"2013"	55	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2014"	"2014"	51	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2015"	"2015"	47	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2016"	"2016"	60	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2017"	"2017"	41	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2018"	"2018"	33	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2019"	"2019"	41	Not Applicable	Not Applicable
+	"Wyoming"	"56"	"2020 "	"2020"	54	Not Applicable	Not Applicable
+"---"
+"Dataset: Multiple Cause of Death, 1999-2020"
+"Query Parameters:"
+"MCD - Drug/Alcohol Induced Causes: Drug poisonings (overdose) Unintentional (X40-X44); Drug poisonings (overdose) Suicide"
+"(X60-X64); Drug poisonings (overdose) Undetermined (Y10-Y14)"
+"Year/Month: Jan., 2008; Feb., 2008; Mar., 2008; Apr., 2008; May, 2008; Jun., 2008; Jan., 2009; Feb., 2009; Mar., 2009; Apr.,"
+"2009; May, 2009; Jun., 2009; Jan., 2010; Feb., 2010; Mar., 2010; Apr., 2010; May, 2010; Jun., 2010; Jan., 2011; Feb., 2011;"
+"Mar., 2011; Apr., 2011; May, 2011; Jun., 2011; Jan., 2012; Feb., 2012; Mar., 2012; Apr., 2012; May, 2012; Jun., 2012; Jan.,"
+"2013; Feb., 2013; Mar., 2013; Apr., 2013; May, 2013; Jun., 2013; Jan., 2014; Feb., 2014; Mar., 2014; Apr., 2014; May, 2014;"
+"Jun., 2014; Jan., 2015; Feb., 2015; Mar., 2015; Apr., 2015; May, 2015; Jun., 2015; Jan., 2016; Feb., 2016; Mar., 2016; Apr.,"
+"2016; May, 2016; Jun., 2016; Jan., 2017; Feb., 2017; Mar., 2017; Apr., 2017; May, 2017; Jun., 2017; Jan., 2018; Feb., 2018;"
+"Mar., 2018; Apr., 2018; May, 2018; Jun., 2018; Jan., 2019; Feb., 2019; Mar., 2019; Apr., 2019; May, 2019; Jun., 2019; Jan., 2020"
+"; Feb., 2020 ; Mar., 2020 ; Apr., 2020 ; May, 2020 ; Jun., 2020"
+"Group By: State; Year"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Aug 4, 2023 10:02:02 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10.html on Aug 4, 2023 10:02:02 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when Autopsy, Place of Death, Weekday or Month are grouped by or limited,"
+"due to lack of a valid population. More information: http://wonder.cdc.gov/wonder/help/mcd.html#NotApplicableRates."
+"2. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#2014-Revision."
+"3. Circumstances in Georgia for the years 2008 and 2009 have resulted in unusually high death counts for the ICD-10 cause of"
+"death code R99, ""Other ill-defined and unspecified causes of mortality."" Caution should be used in interpreting these data."
+"More information: http://wonder.cdc.gov/wonder/help/mcd.html#Georgia-Reporting-Anomalies."
+"4. Circumstances in New Jersey for the year 2009 have resulted in unusually high death counts for the ICD-10 cause of death code"
+"R99, ""Other ill-defined and unspecified causes of mortality"" and therefore unusually low death counts in other ICD-10 codes,"
+"most notably R95, ""Sudden Infant Death Syndrome"" and X40-X49, ""Unintentional poisoning."" Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/mcd.html#New-Jersey-Reporting-Anomalies."
+"5. These items in the results table are not fully selected: 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018,"
+"2019, 2020 . The Query Description lists the actual values selected."
+"6. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Assurance of Confidentiality."
+"7. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Unreliable."
