@@ -1,0 +1,10 @@
+V1,V2,V3,V4,V5,V6,V7,V8,V9,V10,V11
+ & \multicolumn{5}{c}{Oregon} & \multicolumn{5}{c}{Washington} \\ \cmidrule(lr){2-6} \cmidrule(lr){7-11},(1),(2),(3),(4),(5),(6),(7),(8),(9),(10)
+"\hline \\ & \multicolumn{10}{c}{Panel I: Matrix Completion SC Using Biannual Data, 2008-2022} \\ \cmidrule(lr){2-11} ATT",3.661***,-0.634,4.937***,0.532,4.997***,2.682**,-2.135*,4.338***,-1.118,5.072***
+P-Val,{0.000},{0.575},{0.000},{0.656},{0.002},{0.044},{0.094},{0.000},{0.369},{0.001}
+"\\ & \multicolumn{10}{c}{Panel II: Matrix Completion SC Using Biannual Data, 2008-2023} \\ \cmidrule(lr){2-11} ATT",8.573***,4.027***,10.188***,5.327***,9.436***,7.855***,3.066***,9.265***,4.307***,9.123***
+P-Val,{0.000},{0.000},{0.000},{0.000},{0.000},{0.000},{0.010},{0.000},{0.003},{0.000}
+"\\ & \multicolumn{10}{c}{Panel III: Traditional SC Using Monthly Data, 2018-2023} \\ \cmidrule(lr){2-11} ATT",9.677**,10.376**,8.85**,11.892**,12.05**,8.785**,8.645**,8.244**,10.235**,9.794**
+P-Val,{0.02},{0.02},{0.02},{0.02},{0.038},{0.02},{0.02},{0.02},{0.02},{0.038}
+\\ Fentanyl Control,None,DrugRatio,PC,OpioidRatio,None,None,DrugRatio,PC,OpioidRatio,None
+Donor Pool Restriction?,No,No,No,No,Yes,No,No,No,No,Yes
