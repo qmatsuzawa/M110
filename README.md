@@ -1,4 +1,4 @@
-## Read Me
+## Read Me 
 
 In this repository, you can find all the Stata code and R code to facilitate the replication. The master R file “Run_All.R” will run all the cleaning and estimation. All do-file and R scripts include a comment at the top describing what they do.
 
