@@ -6,7 +6,7 @@ This repository has a few subdirectories:
 
   - **Code:** This is where all the R and Stata codes are stored 
   - **Data:** This is where all datasets (both raw and cleaned ones) are/should be stored
-  - **Estimate:** This is where all temporary and final estimates are stored. The subfolders _SC_Main_ and _Robustness_ include temporary outputs. The subfolder Tables includes CSV files of all output tables.
+  - **Estimate:** This is where all temporary and final estimates are stored. The subfolder Tables includes CSV files of all output tables. The subfolders _SC_Main_ and _Robustness_ include temporary outputs. These subdirectories are currently missing/empty but will be created when running the Master R script.
   - **Figures:** This is where all figures are saved
   - **fentanyl_oregon_replication_dataverse:** This is where Zoorob et al. (2023)’s replication package is saved
 
@@ -24,4 +24,4 @@ The cleaned data we provide here is based on the public-use version, whereas our
 
 #### UCR Data 
 
-We also use the publicly available UCR data from Kaplan (2024). Because of the file size, wid do not provide the raw data. However, we have included the final cleaned data in _Data/Cleaned/Crime/UCR_Total_Drug_. If you want to run the cleaning file, you can access the raw UCR data here: [https://www.openicpsr.org/openicpsr/project/102263/version/V16/view?path=/openicpsr/102263/fcr:versions/V16/arrests_parquet_1974_2024_month.zip&type=file](https://www.openicpsr.org/openicpsr/project/102263/version/V16/view?path=/openicpsr/102263/fcr:versions/V16/arrests_parquet_1974_2024_month.zip&type=file). Please download and unzip 2018 to 2024 data into the subfolder _Data/Raw/UCR/arrests_parquet_1974_2024_month/_
+We also use the publicly available UCR data from Kaplan (2024). Because of the file size, we dp not provide the raw data. However, we have included the final cleaned data in _Data/Cleaned/Crime/UCR_Total_Drug_. If you want to run the cleaning file, you can access the raw UCR data here: [https://www.openicpsr.org/openicpsr/project/102263/version/V16/view?path=/openicpsr/102263/fcr:versions/V16/arrests_parquet_1974_2024_month.zip&type=file](https://www.openicpsr.org/openicpsr/project/102263/version/V16/view?path=/openicpsr/102263/fcr:versions/V16/arrests_parquet_1974_2024_month.zip&type=file). Please download and unzip 2018 to 2024 data into the subfolder _Data/Raw/UCR/arrests_parquet_1974_2024_month/_
