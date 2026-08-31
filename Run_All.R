@@ -9,6 +9,8 @@ run_stata <- function(dofile) {
   
   # move the log file
   logname <- sub(".do", ".log", dofile)
+  logname <- sub("Analysis/", "", logname)
+  logname <- sub("Analysis/", "", logname)
   file.rename(logname, file.path("Log/", logname))
 }
 
